@@ -1,2 +1,2 @@
 # lab1
-computer lab 
+computer lab-Manish Bhusal
